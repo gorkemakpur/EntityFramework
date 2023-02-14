@@ -1,0 +1,16 @@
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.pdb
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.dll
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.xml
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.AssemblyReference.cache
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.SuggestedBindingRedirects.cache
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form1.resources
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.cache
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CoreCompileInputs.cache
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CopyComplete
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.pdb
