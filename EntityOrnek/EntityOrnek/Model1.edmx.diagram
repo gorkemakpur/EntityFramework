@@ -11,6 +11,7 @@
         <AssociationConnector Association="SinavOgrenciModel.FK_Notlar_Ders" ManuallyRouted="false" />
         <AssociationConnector Association="SinavOgrenciModel.FK_Notlar_Ogrenci" ManuallyRouted="false" />
         <EntityTypeShape EntityType="SinavOgrenciModel.Kulup" Width="1.5" PointX="0.75" PointY="3.625" />
+        <EntityTypeShape EntityType="SinavOgrenciModel.sysdiagrams" Width="1.5" PointX="3.375" PointY="4.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

@@ -14,3 +14,4 @@ D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.cs
 D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CopyComplete
 D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe
 D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.pdb
+D:\.NET-project\.NET-Calismalar\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form2.resources
